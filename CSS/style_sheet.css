@@ -1,0 +1,36 @@
+body{
+    background-color: yellowgreen;
+    background-image: url(../image/background.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    opacity: 80%;
+}
+h1{
+    color: rgb(255, 254, 254);text-align: center;font-size: 50px;
+}
+p{
+    border-color: black;
+    border: solid;
+    border-radius: 5px;
+}
+.pra{
+    color: white;
+
+}
+#border{
+    color: rgb(152, 245, 192);
+}
+h2{
+    border-color: blanchedalmond;font-size: 30px;
+    border: solid;
+}
+h3{
+    border-color: blanchedalmond;font-size: 30px;
+    border: dotted;
+}
+h4{
+    border-color: blanchedalmond;font-size: 30px;
+    border: groove;
+    padding: 5%;
+}
